@@ -74,8 +74,6 @@ Exercício da disciplina de **Soluções Mobile** — UNISATC.
 └── README.md
 ```
 
-> Ajuste a estrutura acima conforme os arquivos reais do seu projeto.
-
 ## 📸 Preview
 
 <!-- Adicione um print ou GIF do app: ![Calculadora](./assets/preview.png) -->
