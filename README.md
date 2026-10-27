@@ -42,8 +42,8 @@ Exercício da disciplina de **Soluções Mobile** — UNISATC.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/laraareck/[nome-do-repositorio].git
-   cd [nome-do-repositorio]
+   git clone https://github.com/laraareck/-calculadora-react-native.git
+   cd -calculadora-react-native
    ```
 
 2. Instale as dependências:
