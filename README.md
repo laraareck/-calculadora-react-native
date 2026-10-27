@@ -5,7 +5,7 @@ Aplicativo de calculadora simples desenvolvido com React Native + Expo.
 ## Sobre o projeto
 
 Exercício da disciplina de **Soluções Mobile** — UNISATC  
-Professor: Thyerri Mezzari
+Professora: Mariane Joaquim Melo
 
 Objetivo: compreender o uso de componentes, frameworks visuais e Hooks em React Native.
 
@@ -27,10 +27,3 @@ Objetivo: compreender o uso de componentes, frameworks visuais e Hooks em React 
 npm install
 npx expo start
 ```
-
-## Referências
-
-- Slides: *Gerenciamento de Estado e Componentização em React Native* — Prof. Thyerri Mezzari, UNISATC
-- [React Native Paper](https://reactnativepaper.com/)
-- [Documentação Expo](https://docs.expo.dev/)
-- [React Hooks — useState e useEffect](https://pt-br.reactjs.org/docs/hooks-reference.html)
