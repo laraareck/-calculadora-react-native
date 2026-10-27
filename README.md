@@ -17,7 +17,6 @@ Exercício da disciplina de **Soluções Mobile** — UNISATC.
 - Operações básicas: soma, subtração, multiplicação e divisão
 - Botão para limpar o visor
 - Interface responsiva com componentes do React Native Paper
-- [adicione outras, como números decimais, apagar último dígito, etc.]
 
 ## 🧠 Conceitos aplicados
 
