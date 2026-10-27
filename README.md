@@ -83,4 +83,4 @@ Exercício da disciplina de **Soluções Mobile** — UNISATC.
 
 ## 👩‍💻 Autora
 
-Feito por **[Seu nome]** — [@laraareck](https://github.com/laraareck)
+Feito por **Lara Reck** — [@laraareck](https://github.com/laraareck)
